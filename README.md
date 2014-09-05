@@ -1,4 +1,4 @@
 CloudflareDynDNS
 ================
 
-using Cloudflare to make dynamic DNS
+using Cloudflare as dynamic DNS
