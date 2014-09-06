@@ -7,7 +7,7 @@ Dynamic DNS client with Cloudflare
 Requirement
 ================
 
-CloudflareDynDNS Coded in visual studio 2012 so it need the latest version of .NET Framework to work
+CloudflareDynDNS Coded in visual studio 2012 so it require the latest version of .NET Framework to work
 
 Screenshot
 ================
